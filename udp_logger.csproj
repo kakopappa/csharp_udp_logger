@@ -5,4 +5,8 @@
     <TargetFramework>net48</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="bin\Release\net48\udp_logger.exe" />
+  </ItemGroup>
+
 </Project>
